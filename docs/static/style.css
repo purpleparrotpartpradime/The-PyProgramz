@@ -1,0 +1,6 @@
+body { background: #0b0f19; color: #dde1e7; margin: 0; font-family: sans-serif; }
+#menu { background: #15202b; padding: 1em; }
+#menu h1 { margin: 0; color: #1da1f2; }
+#projects { list-style: none; padding: 0; margin: 1em 0; }
+#projects li { background: #1a202c; margin: 0.5em 0; padding: 0.5em; border-radius: 4px; }
+button { background: #1a73e8; color: white; border: none; padding: 0.5em 1em; border-radius: 4px; cursor: pointer; }

@@ -1,0 +1,7 @@
+{
+  "hostname": "purpleparrotpartpradime.github.io/The-PyProgramz",
+  "bundle_id": "com.example.pyprogramz",
+  "provisioning_profile": "path/to/profile.mobileprovision",
+  "cert_name": "iPhone Distribution: Example Co",
+  "app_version": "1.0"
+}
